@@ -3,7 +3,7 @@
     "port": 8108, // 服务器监听端口，必须和上面的一样
     "protocol": "vmess",
     "settings": {
-      "clients": [{ "id": "c46145d6-ac61-5b03-784e-a963b8717631" }]
+      "clients": [{ "id": "56782df1-afd0-48bb-8c70-31e6c52694be" }]
     }
   }],
   "outbounds": [{
